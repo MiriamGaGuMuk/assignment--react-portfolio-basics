@@ -32,12 +32,7 @@ cd ~/muktek/assignments
 create-react-app assignment--react-basics-portfolio
 cd assignment--react-basics-portfolio
 
-# (4) Download project files and unzip them into the src directory
-curl https://raw.githubusercontent.com/muktek/assignment--react-portfolio-01-syntax-basics/master/project-files.zip > project-files.zip
-
-unzip project-files.zip -d ./src/
-
-# (5) return to project root directory and start the react task runner
+# (4) return to project root directory and start the react task runner
 cd ..
 npm start
 ```
