@@ -62,7 +62,7 @@ npm start
 
 
 ### The Component Structure
-![demo](demo/react-portfolio-basics-components.png)
+![demo](/react-portfolio-basics-components.png)
 
 ### Original Site HTML
 ```html
